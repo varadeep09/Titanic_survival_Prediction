@@ -25,3 +25,7 @@ iv)Model Evaluation
 
 The Logistic Regression model provides a simple yet effective way to predict Titanic survival. It offers interpretable results and allows us to understand the influence of various features on the outcome.
  
+## Feedback
+If Any Queries:
+- [Contact me on Linkedin](https://www.linkedin.com/in/varadeep)
+- [gmail:](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMWffpFsKRKkkGcDFbQxKFcTZWFbzxZxQLxfmzsCZRJhdRdHsXxZrzsjnlMNDnSnbtDq) (tailorvaradeep17@gmail.com)
