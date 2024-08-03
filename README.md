@@ -6,8 +6,8 @@
 # 1.Introduction
 Predicting the survival of passengers on the Titanic is a classic machine learning problem. This project aims to apply Logistic Regression techniques to analyze the Titanic dataset and build predictive models.
 # 2.Dataset
-[Click here to get train dataset](https://github.com/varadeep09/Titanic_survival_Prediction/blob/main/train.csv)
-[Click here to get test dataset](https://github.com/varadeep09/Titanic_survival_Prediction/blob/main/test.csv)
+![Click here to get train dataset](https://github.com/varadeep09/Titanic_survival_Prediction/blob/main/train.csv)
+![Click here to get test dataset](https://github.com/varadeep09/Titanic_survival_Prediction/blob/main/test.csv)
 # 3.Modeling
 Logistic Regression:
 Logistic Regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes).
